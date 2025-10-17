@@ -1,0 +1,25 @@
+# --- Сборка ---
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# --- Сгенерированные Qt файлы ---
+*_autogen/
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# --- Объектные и бинарные файлы ---
+*.o
+*.o.d
+*.so
+*.a
+*.out
+*.exe
+
+# --- IDE ---
+*.user
+.idea/
+.vscode/
